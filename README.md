@@ -39,7 +39,7 @@ The MLP is designed to classify data into two categories. The implementation inc
 
 ## Usage
 
-1.  Open and run the `Assignment__002_A.ipynb` notebook in a Jupyter environment.
+1.  Open and run the `MLP.ipynb` notebook in a Jupyter environment.
 2.  The notebook will execute the data loading, model training, and evaluation steps.
 3.  The results, including training/validation loss and the confusion matrix, will be displayed in the notebook.
 
